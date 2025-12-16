@@ -132,8 +132,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Sudipta Sarkar**
-- GitHub: [@kartavya4874](https://github.com/kartavya4874)
-- Email: kartavyabaluja453@gmail.com
+- GitHub: [Rashi A
+- ggarwal](https://github.com/rashiaggarwal06)
+- Email: rashiaggarwalofficial@gmail.com
 
 ---
 
