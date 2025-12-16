@@ -1,4 +1,4 @@
-# SignBridge - Bridging the gap of Sign Language
+# GestureGo - Breaking communication barriers with sign language technology
 
 A real-time American Sign Language (ASL) recognition system using computer vision and deep learning to translate hand gestures into text.
 
