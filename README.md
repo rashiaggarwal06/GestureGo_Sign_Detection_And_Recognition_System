@@ -29,7 +29,7 @@ A real-time American Sign Language (ASL) recognition system using computer visio
 - **Data Augmentation** - Enhanced training with image transformations
 
 ### Development Tools
-- **Python 3.11+** - Primary programming language
+- **Python 3.10** - Primary programming language
 - **Jupyter Notebooks** - Model development and experimentation
 - **Git** - Version control
 
@@ -37,7 +37,7 @@ A real-time American Sign Language (ASL) recognition system using computer visio
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/sudiptasarkar011/sign-language.git
+git clone https://github.com/rashiaggarwal06/GestureGo_Sign_Detection_And_Recognition_System.git
 cd sign-language
 ```
 
