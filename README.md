@@ -129,6 +129,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ASL alphabet dataset contributors
 - Open source community for various tools and libraries
 
+## Screenshot
+![Project Screenshot](S1.png)
+![Project Screenshot](S2.png)
+![Project Screenshot](S3.png)
+![Project Screenshot](S4.png)
+![Project Screenshot](S5.png)
+
 ## 📧 Contact
 
 **Rashi Aggarwal**
