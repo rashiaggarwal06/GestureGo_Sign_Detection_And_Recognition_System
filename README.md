@@ -130,11 +130,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for various tools and libraries
 
 ## Screenshot
-![Project Screenshot](S1.png)
-![Project Screenshot](S2.png)
-![Project Screenshot](S3.png)
-![Project Screenshot](S4.png)
-![Project Screenshot](S5.png)
+![Project Screenshot](Screenshots/S1.png)
+![Project Screenshot](Screenshots/S2.png)
+![Project Screenshot](Screenshots/S3.png)
+![Project Screenshot](Screenshots/S4.png)
+![Project Screenshot](Screenshots/S5.png)
 
 ## 📧 Contact
 
